@@ -33,3 +33,5 @@ Contributions are welcome! Feel free to submit pull requests for code optimizati
 This project is licensed under the **MIT License** – free to use and contribute!  
 
 Start your journey towards mastering DSA with C++ today! 🚀
+
+To make a new file using terminal --> type nul > filename.cpp
