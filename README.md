@@ -1,6 +1,4 @@
-
-
-#CPP-DSA-Package
+# CPP-DSA-Package
 
 A comprehensive **C++ Data Structures and Algorithms (DSA) package** designed to help you excel in problem-solving and coding interviews. This repository offers an organized collection of **optimized algorithms, efficient data structures**, and practical examples, making it an essential toolkit for students, competitive programmers, and developers.  
 
